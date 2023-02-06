@@ -1,0 +1,30 @@
+{
+  "name": "personalwebsite-email-server-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  },
+  "engines": {
+    "npm": "6.14.5",
+    "node": "16.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahayush954/personalwebsite-email-server-backend.git"
+  },
+  "author": "Ayush Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahayush954/personalwebsite-email-server-backend/issues"
+  },
+  "homepage": "https://github.com/shahayush954/personalwebsite-email-server-backend#readme"
+}
